@@ -1,6 +1,6 @@
 # LangChain-AutoGPT-Haiki-Generator-Streamlit-App
 
-The AutoGPT Haiku Generator is a Streamlit application that utilizes the OpenAI API and GPT-3.5 large language model to generate haikus. It provides an interactive interface for users to input prompts and receive haiku titles and poems as output.
+The LangChain AutoGPT Haiku Generator is a Streamlit application that utilizes the OpenAI API and GPT-3.5 large language model to generate haikus. It provides an interactive interface for users to input prompts and receive haiku titles and poems as output.
 
 ### Functionality
 1. Prompt Input: Users can enter their haiku prompt into the text input field provided by the application.
