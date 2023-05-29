@@ -26,6 +26,5 @@ To use the AutoGPT Haiku Generator:
 ### Example Screenshots
 ![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/72bf062a-45b7-49e0-a079-46c54b0a595e)
 ![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/b37d5f86-b54d-4ab3-a3c1-5adaebd9bc36)
-![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/847eb7ba-897c-4785-96b1-ade0fb615cb9)
-![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/8f06f71e-0dd9-45b3-863d-a07d2aad1766)
-![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/53a06ad6-d81b-4041-b2af-fa1746cc69e9)
+![image](https://github.com/petermartens98/LangChain-AutoGPT-Haiki-Generator-Streamlit-App/assets/87671757/bf7f5c89-2618-45a3-8136-ce4e50cd6bb3)
+
